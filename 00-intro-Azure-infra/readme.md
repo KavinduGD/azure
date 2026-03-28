@@ -18,7 +18,7 @@
 
 <img src="./images/az-cat.png" width="1000px">
 
-### Rehion pairs in Azure
+### Region pairs in Azure
 
 - Most Azure regions are paired with another region within the same geography (such as US, Europe, or Asia) at least 300 miles away
 - This approach allows for the replication of resources across a geography that helps reduce the likelihood of interruptions because of events such as natural disasters, civil unrest, power outages, or physical network outages that affect an entire region.

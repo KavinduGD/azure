@@ -11,6 +11,7 @@
 ## Virtual machine availability sets
 
 - Availability Set is a logical grouping capability you use to ensure that the VMs you deploy are redundant and available during either planned maintenance or unplanned hardware failures.
+- 🛑 Azure Availability Sets do not span across multiple Availability Zones (AZs).
 
 ### Fault Domains (FD)
 

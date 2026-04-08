@@ -41,3 +41,13 @@ This service lets you move your existing VMware setup from your local data cente
 - automate
 - monitor
 - continuously optimize.
+
+## Azure , Microsoft 365 and On-premises
+
+<img src="./images/overall.png" width="1000" />
+
+- Active Directory Domain Services (AD DS) is a directory service that provides authentication and authorization for users and computers in a Windows domain. It is typically used in on-premises environments.
+- Azure Active Directory (Azure AD)(Entra ID) is a cloud-based identity and access management service that provides authentication and authorization for users and applications in the cloud.
+- Microsoft 365 is a suite of cloud-based productivity services that includes applications like Word, Excel, PowerPoint, and Outlook, as well as cloud services like OneDrive, SharePoint, and Teams.
+- 🛑 Microsoft 365 also integrates with Azure AD (Entra ID) for identity and access management, providing a unified experience for users across both on-premises and cloud environments.
+- Azure AD Connect (Entra ID Connect) is a tool that allows you to synchronize your on-premises Active Directory with Azure AD (Entra ID), enabling users to use the same credentials for both environments.

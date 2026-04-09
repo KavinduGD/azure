@@ -38,6 +38,10 @@
 
 <img src="./images/rg-rules.png" width="1000px">
 
+- Azure ask for a region when we create a resource group. But we can put resources in that resource group in any region.
+- It ask because it needs to store metadata about the resource group, such as its name, location, and tags. This metadata is used to manage the resource group and its resources, but it doesn't affect where the resources themselves are located.
+- But when the resource group region goes down, you can't manage the resources in that resource group. You can still access the resources, but you can't make changes to them until the resource group region is back up.
+
 ### Azure subscriptions
 
 In Azure, subscriptions are a unit of management, billing, and scale. Subscriptions let you organize resource groups and control billing separately from access.

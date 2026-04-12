@@ -48,3 +48,4 @@
 
 - private connection between on premises network and Azure VNet
 - dedicated connection
+- similar to aws direct connect

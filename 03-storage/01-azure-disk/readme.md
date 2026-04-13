@@ -1,8 +1,8 @@
 # Azure Managed Disk
 
-In Microsoft cloud platform Microsoft Azure, a Managed Disk is a type of storage for virtual machines where Azure automatically handles the storage management for you.
+- Block-level storage volumes for Azure VMs.
 
-## 1. First understand the problem (before Managed Disks)
+## 1. First understand the problem (before Managed Disks (unmanaged disks))
 
 When you create a Virtual Machine (VM) in Azure, it needs a disk to store:
 

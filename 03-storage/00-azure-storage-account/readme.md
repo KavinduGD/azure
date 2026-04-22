@@ -4,9 +4,15 @@
 - Instead of managing files, databases, and messages separately, Azure groups them inside a storage account.
 - The type of account determines the storage services and redundancy options
 
+## Storage AccountTypes
+
+- based on the type cost going to be different and also the features that you get with each type of account.
+
 <img src="./images/str-types.png" width="900px">
 
 ## Redundancy Options
+
+We can select redundancy options for azure accounts. Cost also changes on the redundancy option that we select.
 
 ### Redundancy in Primary Region
 
